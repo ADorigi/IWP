@@ -1,13 +1,13 @@
 body{
 
-    background: url(urus.jpg) no-repeat;
+    background: url(vit.jpg) no-repeat;
     background-size:cover;
     background-color: rgb(220, 255, 252);
     margin: 0px;
     
     }
     #login { 
-        background: url(urus.jpg) no-repeat fixed;
+        background: url(vit.jpg) no-repeat fixed;
         width: 500px; margin: 40px auto;
       }
     ul {
