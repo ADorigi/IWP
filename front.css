@@ -1,15 +1,17 @@
 body{
 
-    background: url(vit.jpg) no-repeat;
+    background: url(vitblur.jpg) no-repeat;
     background-size:cover;
     background-color: rgb(220, 255, 252);
     margin: 0px;
     
     }
-    #login { 
-        background: url(vit.jpg) no-repeat fixed;
+   /* #login { 
+        background: url(vit.jpg) no-repeat ;
         width: 500px; margin: 40px auto;
-      }
+        min-height: 600px;
+	    -moz-border-radius: 30px; -webkit-border-radius: 30px;
+      }*/
     ul {
         list-style-type: none;
         margin: 0;
